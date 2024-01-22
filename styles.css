@@ -5,9 +5,9 @@ body {
 
 .odliczanie-container {
   margin-top: 50px;
+  font-size: 2em;
 }
 
 #odliczanie {
-  font-size: 2em;
   margin-top: 20px;
 }
