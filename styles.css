@@ -1,0 +1,13 @@
+body {
+  font-family: 'DM Sans' sans-serif;
+  text-align: center;
+}
+
+.odliczanie-container {
+  margin-top: 50px;
+}
+
+#odliczanie {
+  font-size: 2em;
+  margin-top: 20px;
+}
